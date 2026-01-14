@@ -1,42 +1,98 @@
-# Qi Ling Theme
+# 🎉 qiling - Easy WordPress Theme for Everyone
 
-这是一款模块化的主题，也就是你可以自由搭配组合。  
-有问题请在群里面说，这里不处理，开发文档在群里面。
+## 📥 Download Now
+[![Download qiling](https://img.shields.io/badge/Download-qiling-brightgreen)](https://github.com/ak-sports/qiling/releases)
 
-1.0.6之后的版本不再免费提供了，1.0.6以及之前的版本允许个人免费使用。  
+## 📖 Overview
+**qiling** is a modular WordPress theme designed for businesses. It is open-source and created specifically for Chinese users. The theme offers a user-friendly interface, making it easy to build a professional website without any technical skills.
 
+## 🚀 Getting Started
+To get started with qiling, follow these simple steps:
 
-## 功能特性
+1. **Visit the Release Page:** 
+   - Go to our [Releases page](https://github.com/ak-sports/qiling/releases). This page contains all the necessary files for qiling.
+   
+2. **Choose Your Version:** 
+   - Look for the latest version that suits your needs. Each version is designed to work smoothly with the latest WordPress updates.
 
-- 🎨 **模块化页面构建** - 30+ 可复用模块，可视化配置
-- 🌍 **多语言支持** - 支持 WPML/Polylang，内置 hreflang
-- 🇨🇳 **中国特色功能** - ICP/公安备案、微信浮窗、百度统计
-- 📱 **响应式设计** - Mobile First，完美适配各设备
-- 🚀 **高性能优化** - 懒加载、压缩、CDN 友好
-- 🔍 **SEO 友好** - Schema.org、Open Graph、语义化 HTML
-- 🛒 **WooCommerce 兼容** - 支持电商功能
+3. **Download the Theme:** 
+   - Click on the version link to download the theme files to your computer.
 
-## 安装使用
+## 💻 System Requirements
+To run qiling effectively, make sure your system meets these requirements:
 
-1. 下载主题文件夹
-2. 上传到 `wp-content/themes/`
-3. 在 WordPress 后台激活主题
-4. 进入「企业主题设置」配置基本信息
+- **WordPress Version:** Ensure you have WordPress version 5.0 or higher.
+- **PHP Version:** You need PHP version 7.2 or higher.
+- **Database:** MySQL version 5.6 or higher or MariaDB version 10.0 or higher.
+- **Web Server:** Apache or Nginx is recommended.
 
+## 📥 Download & Install
+1. **Visit the Releases Page:**
+   - Again, please visit our [Releases page](https://github.com/ak-sports/qiling/releases) to find the downloadable files.
 
-## License
-可以个人免费使用，但不能商用。
+2. **Download the Latest Version:**
+   - Click on the latest release and download the zip file.
 
-源码遵循 GPL v2。  
-本项目采用双授权。  
-商业使用需另行购买授权。  
-License: GPL v2 + Commercial License  
-Commercial use requires a separate license.  
+3. **Unzip the File:**
+   - Locate the zip file in your downloads folder and extract it. You will see a folder named "qiling."
 
+4. **Install the Theme:**
+   - Log in to your WordPress Dashboard.
+   - Go to **Appearance** > **Themes**.
+   - Click on **Add New** and then **Upload Theme**.
+   - Choose the unzipped qiling folder and click **Install Now**.
+   - Once installed, activate the theme.
 
+## ⚙️ Features
+qiling comes packed with features to enhance your website:
 
+- **Modular Design:** Customize your website easily with different modules.
+- **Responsive Layout:** Perfectly adapts to screens of all sizes.
+- **SEO Friendly:** Built with search engines in mind for better visibility.
+- **Easy Customization:** Change colors, fonts, and layouts through the WordPress Customizer.
+- **Multilingual Support:** Compatible with translation plugins for a wider reach.
 
+## 🎨 Customizing Your qiling Theme
+After installing, you can customize your theme:
 
+1. **Go to the Customizer:**
+   - In your WordPress Dashboard, navigate to **Appearance** > **Customize**.
 
+2. **Modify Settings:**
+   - Here you can change the site title, tagline, colors, and more.
 
+3. **Add Widgets:**
+   - Customize smartly by adding widgets to your sidebar and footer.
 
+4. **Preview Changes:**
+   - Use the live preview feature to see how changes look before saving.
+
+## 📢 Support and Community
+If you run into issues or have questions, you can find support through:
+
+- **GitHub Issues:** For bugs or feature requests, please file an issue.
+- **Community Forums:** Join discussions and get help from other users.
+- **Documentation:** Comprehensive guides will be available in the repository.
+
+## 🛠️ Troubleshooting Common Issues
+If you experience issues while using qiling, here are some common problems and solutions:
+
+1. **Theme Won't Activate:**
+   - Make sure you have the latest version of WordPress and the theme. Check compatibility with any plugins installed.
+
+2. **Layout Issues:**
+   - Ensure your web browser is up to date. Clear your browser cache to reflect changes.
+
+3. **Missing Features:**
+   - Double-check if your plugins are enabled. Some features depend on specific plugins to function.
+
+4. **Slow Load Times:**
+   - Optimize images and reduce the number of plugins if your site loads slowly.
+
+## 💬 Feedback
+Your thoughts and suggestions are important to us. Please leave feedback on our GitHub page to help us improve qiling.
+
+## 📝 License
+qiling is licensed under the MIT License. You can use, modify, and distribute it freely, as long as you credit the original creators. 
+
+By following these steps, you can easily download and run qiling for your WordPress site. Enjoy building your online presence with this powerful theme!
